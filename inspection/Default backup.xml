@@ -1,0 +1,4 @@
+<profile version="1.0">
+  <option name="myName" value="Default backup" />
+  <inspection_tool class="Eslint" enabled="true" level="ERROR" enabled_by_default="true" />
+</profile>
