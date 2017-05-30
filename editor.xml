@@ -3,8 +3,6 @@
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
-  </component>
-  <component name="SqlEditorOptions">
-    <option name="qualificationType" value="On collisions" />
+    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
   </component>
 </application>
