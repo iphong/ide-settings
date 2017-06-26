@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="liquid" type="HTML" />
+      <mapping ext="opts" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
