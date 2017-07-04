@@ -17,7 +17,7 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
-    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
   </component>
   <component name="SqlEditorOptions">
