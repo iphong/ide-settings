@@ -10,13 +10,13 @@
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
