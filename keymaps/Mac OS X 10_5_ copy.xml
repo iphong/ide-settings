@@ -8,4 +8,7 @@
   <action id="PublishGroup.SyncLocalVsRemoteWith">
     <keyboard-shortcut first-keystroke="meta alt s" />
   </action>
+  <action id="TogglePowerSave">
+    <keyboard-shortcut first-keystroke="meta alt i" />
+  </action>
 </keymap>
