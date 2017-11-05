@@ -8,6 +8,7 @@
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
+    <option name="BLANK_LINES_AROUND_FUNCTION" value="2" />
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
     <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
   </JSCodeStyleSettings>
@@ -15,6 +16,11 @@
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="3" />
+    <option name="BLANK_LINES_AFTER_IMPORTS" value="2" />
+    <option name="BLANK_LINES_AROUND_CLASS" value="2" />
+    <option name="BLANK_LINES_AROUND_FIELD" value="2" />
+    <option name="BLANK_LINES_AROUND_METHOD" value="2" />
     <option name="SPACE_WITHIN_IF_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_WHILE_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_FOR_PARENTHESES" value="true" />
