@@ -8,5 +8,11 @@
   </component>
   <component name="Registry">
     <entry key="dumb.aware.run.configurations" value="true" />
+    <entry key="editor.distraction.free.mode" value="true" />
+    <entry key="search.everywhere.symbols" value="false" />
+    <entry key="search.everywhere.toolwindows" value="false" />
+    <entry key="search.everywhere.configurations" value="false" />
+    <entry key="search.everywhere.actions" value="false" />
+    <entry key="debugger.mayBringFrameToFrontOnBreakpoint" value="false" />
   </component>
 </application>
