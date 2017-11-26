@@ -12,7 +12,6 @@
     <option name="INDENT_CHAINED_CALLS" value="false" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
     <option name="BLANK_LINES_AROUND_FUNCTION" value="0" />
-    <option name="IMPORT_SORT_MODULE_NAME" value="true" />
     <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
   </JSCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
