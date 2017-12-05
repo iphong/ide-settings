@@ -1,0 +1,7 @@
+<application>
+  <component name="PrintSettings">
+    <option name="printScope" value="2" />
+    <option name="PORTRAIT_LAYOUT" value="false" />
+    <option name="PRINT_LINE_NUMBERS" value="false" />
+  </component>
+</application>
