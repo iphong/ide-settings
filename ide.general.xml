@@ -14,5 +14,6 @@
     <entry key="search.everywhere.actions" value="false" />
     <entry key="debugger.mayBringFrameToFrontOnBreakpoint" value="false" />
     <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
   </component>
 </application>
