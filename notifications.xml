@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration" showBalloons="false">
+    <notification groupId="Branch Context group" displayType="NONE" />
     <notification groupId="Webpack" displayType="NONE" shouldLog="false" />
   </component>
 </application>
