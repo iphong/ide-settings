@@ -56,6 +56,7 @@
     <option name="SHOW_EDITOR_TOOLTIP" value="false" />
     <option name="SHOW_ICONS_IN_QUICK_NAVIGATION" value="false" />
     <option name="SHOW_ICONS_IN_MENUS" value="false" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="false" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
