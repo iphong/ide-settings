@@ -6,7 +6,7 @@
         <entry key="JSX Harmony" value="true" />
       </map>
     </option>
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="USE_SOFT_WRAPS" value="" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="SHOW_INTENTION_BULB" value="false" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
