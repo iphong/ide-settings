@@ -4,6 +4,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="php" type="PHP" />
       <mapping pattern="components-guidelines.md" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
