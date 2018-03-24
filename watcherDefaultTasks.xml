@@ -26,8 +26,8 @@
       <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
-      <option name="arguments" value="$FilePathRelativeToProjectRoot$ --out-dir dist --source-maps --presets flow" />
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="$FilePathRelativeToProjectRoot$ --out-dir dist" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
@@ -41,7 +41,7 @@
       <option name="outputFromStdout" value="false" />
       <option name="program" value="/usr/local/bin/babel" />
       <option name="runOnExternalChanges" value="true" />
-      <option name="scopeName" value="Open Files" />
+      <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ContentRoot$" />
       <envs />
