@@ -4,6 +4,7 @@
       <mapping ext="php" type="PHP" />
       <mapping pattern="sspgbldr" type="PLAIN_TEXT" />
       <mapping pattern="components-guidelines.md" type="PLAIN_TEXT" />
+      <mapping pattern="HID_Simulation_Server" type="PLAIN_TEXT" />
       <mapping pattern="img" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
