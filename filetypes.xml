@@ -1,19 +1,20 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="run" type="Bash" />
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="page-blank" type="JSON" />
       <mapping pattern="page-sample" type="JSON" />
+      <mapping pattern="page-blank" type="JSON" />
       <mapping pattern="" type="JSON" />
       <mapping ext="com" type="JSON" />
       <mapping ext="blank" type="JSON" />
       <mapping ext="php" type="PHP" />
-      <mapping pattern="HID_Simulation_Server" type="PLAIN_TEXT" />
-      <mapping pattern="components-guidelines.md" type="PLAIN_TEXT" />
-      <mapping pattern="json" type="PLAIN_TEXT" />
       <mapping pattern="img" type="PLAIN_TEXT" />
-      <mapping pattern="keysyms.json" type="PLAIN_TEXT" />
       <mapping pattern="sspgbldr" type="PLAIN_TEXT" />
+      <mapping pattern="json" type="PLAIN_TEXT" />
+      <mapping pattern="components-guidelines.md" type="PLAIN_TEXT" />
+      <mapping pattern="HID_Simulation_Server" type="PLAIN_TEXT" />
+      <mapping pattern="keysyms.json" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
     </extensionMap>
