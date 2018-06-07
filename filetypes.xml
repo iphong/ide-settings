@@ -9,6 +9,7 @@
       <mapping ext="com" type="JSON" />
       <mapping ext="blank" type="JSON" />
       <mapping ext="php" type="PHP" />
+      <mapping pattern="websockify" type="PLAIN_TEXT" />
       <mapping pattern="img" type="PLAIN_TEXT" />
       <mapping pattern="sspgbldr" type="PLAIN_TEXT" />
       <mapping pattern="json" type="PLAIN_TEXT" />
