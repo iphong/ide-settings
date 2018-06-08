@@ -17,7 +17,11 @@
       <mapping pattern="HID_Simulation_Server" type="PLAIN_TEXT" />
       <mapping pattern="keysyms.json" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="so" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="o" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
+      <removed_mapping ext="so" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>
