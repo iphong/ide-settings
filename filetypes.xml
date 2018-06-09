@@ -4,6 +4,9 @@
       <mapping pattern="run" type="Bash" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="page-sample" type="JSON" />
+      <mapping pattern="2278e36661db67f9cc0864c024d7d9cc" type="JSON" />
+      <mapping pattern="04c7d57df3a82f92c149ef0fdae93526" type="JSON" />
+      <mapping pattern="0ea339338138131148515367e8bd1a6d" type="JSON" />
       <mapping pattern="page-blank" type="JSON" />
       <mapping pattern="" type="JSON" />
       <mapping ext="com" type="JSON" />
@@ -17,10 +20,10 @@
       <mapping pattern="HID_Simulation_Server" type="PLAIN_TEXT" />
       <mapping pattern="keysyms.json" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
-      <mapping ext="p12" type="PLAIN_TEXT" />
       <removed_mapping ext="so" type="UNKNOWN" />
     </extensionMap>
   </component>
