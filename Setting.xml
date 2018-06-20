@@ -1,0 +1,7 @@
+<application>
+  <component name="SettingVariables">
+    <option name="esVersion" value="ES7" />
+    <option name="importMode" value="NewModules" />
+    <option name="needDefault" value="true" />
+  </component>
+</application>
