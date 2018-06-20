@@ -12,6 +12,9 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
+  <action id="EslintImportCodeStyle">
+    <keyboard-shortcut first-keystroke="ctrl meta alt semicolon" />
+  </action>
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="meta alt semicolon" />
   </action>
