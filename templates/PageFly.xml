@@ -1,5 +1,5 @@
 <templateSet group="PageFly">
-  <template name="pf-test" value="class $name$ extends React.Component {&#10;&#9;$body$&#10;}" toReformat="true" toShortenFQNames="true">
+  <template name="pf-test" value="class $name$ extends React.Component {&#10;&#9;$body$&#10;}" description="" toReformat="true" toShortenFQNames="true">
     <variable name="name" expression="classNameComplete()" defaultValue="" alwaysStopAt="true" />
     <variable name="body" expression="capitalize(String)" defaultValue="test" alwaysStopAt="true" />
     <context>
