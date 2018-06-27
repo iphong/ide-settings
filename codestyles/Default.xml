@@ -1,43 +1,5 @@
-<code_scheme name="Default" version="173">
-  <option name="OTHER_INDENT_OPTIONS">
-    <value>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
-      <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
-    </value>
-  </option>
-  <JSCodeStyleSettings>
-    <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
-    <option name="FORCE_SEMICOLON_STYLE" value="true" />
-    <option name="USE_DOUBLE_QUOTES" value="false" />
-    <option name="FORCE_QUOTE_STYlE" value="true" />
-    <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
-    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
-    <option name="SPACES_WITHIN_IMPORTS" value="true" />
-    <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
-    <option name="BLANK_LINES_AROUND_FUNCTION" value="2" />
-    <option name="IMPORT_SORT_MODULE_NAME" value="true" />
-    <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
-  </JSCodeStyleSettings>
+<code_scheme name="Default">
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
-  <codeStyleSettings language="JavaScript">
-    <option name="KEEP_BLANK_LINES_IN_CODE" value="3" />
-    <option name="BLANK_LINES_AFTER_IMPORTS" value="2" />
-    <option name="BLANK_LINES_AROUND_CLASS" value="2" />
-    <option name="BLANK_LINES_AROUND_FIELD" value="2" />
-    <option name="BLANK_LINES_AROUND_METHOD" value="2" />
-    <option name="SPACE_WITHIN_IF_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_WHILE_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_FOR_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_CATCH_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_SWITCH_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_BRACKETS" value="true" />
-    <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
 </code_scheme>

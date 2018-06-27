@@ -100,16 +100,6 @@
   <inspection_tool class="ThrowFromFinallyBlockJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="TrivialConditionalJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="TrivialIfJS" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="TypeScriptAccessibilityCheck" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="TypeScriptCheckImport" enabled="false" level="ERROR" enabled_by_default="false" />
-  <inspection_tool class="TypeScriptMissingAugmentationImport" enabled="false" level="INFORMATION" enabled_by_default="false" />
-  <inspection_tool class="TypeScriptPreferShortImport" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="TypeScriptUMDGlobal" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="TypeScriptUnresolvedFunction" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="TypeScriptUnresolvedVariable" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="TypeScriptValidateJSTypes" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="TypeScriptValidateTypes" enabled="false" level="ERROR" enabled_by_default="false" />
-  <inspection_tool class="TypescriptExplicitMemberType" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="UnnecessaryContinueJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="UnnecessaryLabelJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="UnnecessaryLabelOnBreakStatementJS" enabled="false" level="WARNING" enabled_by_default="false" />

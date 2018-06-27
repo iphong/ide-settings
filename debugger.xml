@@ -1,17 +1,11 @@
 <application>
   <component name="XDebuggerSettings">
-    <data-views>
-      <option name="showLibraryStackFrames" value="false" />
-      <sort-values>true</sort-values>
-      <option name="valueLookupDelay" value="200" />
-    </data-views>
-    <general>
-      <option name="showDebuggerOnBreakpoint" value="false" />
-    </general>
+    <data-views />
+    <general />
     <debuggers>
       <debugger id="javascript">
         <configuration>
-          <custom-object-presentation enabled="true" />
+          <custom-object-presentation />
         </configuration>
       </debugger>
     </debuggers>

@@ -1,15 +1,17 @@
 <application>
   <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_IMPORTS" value="false" />
-    <option name="COLLAPSE_FILE_HEADER" value="false" />
+    <option name="COLLAPSE_METHODS" value="true" />
+    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
     <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
   </component>
   <component name="DartCodeFoldingSettings">
     <option name="collapseGenericParameters" value="true" />
   </component>
+  <component name="JSCodeFoldingSettings">
+    <option name="collapseXmlLiterals" value="true" />
+    <option name="COLLAPSE_XML_LITERALS" value="true" />
+  </component>
   <component name="XmlFoldingSettings">
-    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
-    <option name="COLLAPSE_ENTITIES" value="false" />
-    <option name="COLLAPSE_DATA_URI" value="false" />
+    <option name="COLLAPSE_XML_TAGS" value="true" />
   </component>
 </application>
