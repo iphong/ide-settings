@@ -1,28 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="page-sample" type="JSON" />
-      <mapping pattern="04c7d57df3a82f92c149ef0fdae93526" type="JSON" />
-      <mapping pattern="2278e36661db67f9cc0864c024d7d9cc" type="JSON" />
-      <mapping pattern="page-blank" type="JSON" />
-      <mapping pattern="0ea339338138131148515367e8bd1a6d" type="JSON" />
-      <mapping pattern="" type="JSON" />
-      <mapping ext="com" type="JSON" />
-      <mapping ext="blank" type="JSON" />
       <mapping ext="php" type="PHP" />
-      <mapping pattern="websockify" type="PLAIN_TEXT" />
-      <mapping pattern="img" type="PLAIN_TEXT" />
-      <mapping pattern="sspgbldr" type="PLAIN_TEXT" />
-      <mapping pattern="json" type="PLAIN_TEXT" />
-      <mapping pattern="HID_Simulation_Server" type="PLAIN_TEXT" />
-      <mapping pattern="keysyms.json" type="PLAIN_TEXT" />
-      <mapping pattern="components-guidelines.md" type="PLAIN_TEXT" />
-      <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping ext="py" type="PLAIN_TEXT" />
-      <mapping ext="o" type="PLAIN_TEXT" />
-      <mapping ext="p12" type="PLAIN_TEXT" />
-      <mapping pattern="run" type="Bash" />
     </extensionMap>
   </component>
 </application>
