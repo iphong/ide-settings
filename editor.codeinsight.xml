@@ -11,7 +11,4 @@
     <option name="collapseXmlLiterals" value="true" />
     <option name="COLLAPSE_XML_LITERALS" value="true" />
   </component>
-  <component name="XmlFoldingSettings">
-    <option name="COLLAPSE_XML_TAGS" value="true" />
-  </component>
 </application>
