@@ -3,7 +3,6 @@
     <option name="COLLAPSE_DOC_COMMENTS" value="true" />
     <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings" profile="None" />
   <component name="DartCodeFoldingSettings">
     <option name="collapseGenericParameters" value="true" />
   </component>
