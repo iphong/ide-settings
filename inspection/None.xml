@@ -34,6 +34,7 @@
   <inspection_tool class="BashUnusedFunctionParams" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="BashWrapFunction" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="BashWrapWord" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="BestPractice" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="BlockStatementJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="BreakStatementJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="BreakStatementWithLabelJS" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -136,6 +137,7 @@
   <inspection_tool class="ES6PossiblyAsyncFunction" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="ES6ShorthandObjectProperty" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="ES6UnusedImports" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="ESLintInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="EjsUnresolvedInclude" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="EmptyCatchBlockJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="EmptyEventHandler" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -352,6 +354,7 @@
   </inspection_tool>
   <inspection_tool class="PointlessBooleanExpressionJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ProblematicWhitespace" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="RT" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="RedundantTypeConversion" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="CHECK_ANY" value="false" />
   </inspection_tool>
@@ -402,7 +405,7 @@
   <inspection_tool class="TodoComment" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="TrivialConditionalJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="TrivialIfJS" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="TsLint" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="TsLint" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="TypeScriptAbstractClassConstructorCanBeMadeProtected" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="TypeScriptAccessibilityCheck" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="TypeScriptCheckImport" enabled="false" level="ERROR" enabled_by_default="false" />
