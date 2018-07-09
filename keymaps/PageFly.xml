@@ -1,13 +1,17 @@
 <keymap version="1" name="PageFly" parent="Mac OS X 10.5+">
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta 9" />
   </action>
   <action id="EslintImportCodeStyle">
     <keyboard-shortcut first-keystroke="ctrl meta alt semicolon" />
+    <keyboard-shortcut first-keystroke="ctrl meta alt l" />
   </action>
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="meta alt semicolon" />
+    <keyboard-shortcut first-keystroke="meta alt l" />
   </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
