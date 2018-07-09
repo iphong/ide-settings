@@ -6,6 +6,7 @@
   <component name="CodeInsightSettings">
     <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="None" />
   <component name="DartCodeFoldingSettings">
     <option name="collapseGenericParameters" value="true" />
   </component>
