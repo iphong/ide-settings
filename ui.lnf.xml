@@ -1,4 +1,7 @@
 <application>
+  <component name="DependencyUISettings">
+    <option name="UI_FILTER_LEGALS" value="true" />
+  </component>
   <component name="UISettings">
     <option name="ALLOW_MERGE_BUTTONS" value="false" />
     <option name="ANIMATE_WINDOWS" value="false" />
