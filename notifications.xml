@@ -1,5 +1,6 @@
 <application>
-  <component name="NotificationConfiguration" showBalloons="false">
+  <component name="NotificationConfiguration">
+    <notification groupId="Required Plugins" displayType="STICKY_BALLOON" shouldReadAloud="true" />
     <notification groupId="Webpack" displayType="NONE" shouldLog="false" />
   </component>
 </application>
