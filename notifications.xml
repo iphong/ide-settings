@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Dependencies from package.json" shouldLog="false" />
     <notification groupId="Required Plugins" displayType="STICKY_BALLOON" shouldReadAloud="true" />
     <notification groupId="Webpack" displayType="NONE" shouldLog="false" />
   </component>
