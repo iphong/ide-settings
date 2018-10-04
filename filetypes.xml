@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
+      <removed_mapping ext="graphql" approved="true" type="GraphQL" />
       <mapping ext="php" type="PHP" />
       <mapping pattern="demo-puppeteer.js" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
