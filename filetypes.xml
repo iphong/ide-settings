@@ -4,6 +4,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="php" type="PHP" />
       <mapping pattern="demo-puppeteer.js" type="PLAIN_TEXT" />
+      <mapping ext="graphql" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
