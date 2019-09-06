@@ -6,6 +6,8 @@
       <mapping ext="php" type="PHP" />
       <mapping pattern="demo-puppeteer.js" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
+      <mapping ext="ino" type="PLAIN_TEXT" />
+      <removed_mapping ext="graphql" approved="true" type="GraphQL" />
     </extensionMap>
   </component>
 </application>
