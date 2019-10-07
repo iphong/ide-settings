@@ -2,22 +2,4 @@
   <component name="DependencyUISettings">
     <option name="UI_FILTER_LEGALS" value="true" />
   </component>
-  <component name="UISettings">
-    <option name="ALLOW_MERGE_BUTTONS" value="false" />
-    <option name="ANIMATE_WINDOWS" value="false" />
-    <option name="CYCLE_SCROLLING" value="false" />
-    <option name="DISABLE_MNEMONICS" value="false" />
-    <option name="FONT_FACE" value=".SF NS Text" />
-    <option name="FONT_SCALE" value="1.0" />
-    <option name="HIDE_NAVIGATION_ON_FOCUS_LOSS" value="false" />
-    <option name="HIDE_TABS_IF_NEED" value="false" />
-    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
-    <option name="PRESENTATION_MODE_FONT_SIZE" value="20" />
-    <option name="SHOW_CLOSE_BUTTON" value="false" />
-    <option name="SHOW_ICONS_IN_QUICK_NAVIGATION" value="false" />
-    <option name="SHOW_ICONS_IN_MENUS" value="false" />
-    <option name="SHOW_TABS_TOOLTIPS" value="false" />
-    <option name="SHOW_TOOL_WINDOW_NUMBERS" value="false" />
-    <option name="smoothScrolling" value="false" />
-  </component>
 </application>
