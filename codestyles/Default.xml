@@ -7,7 +7,7 @@
     </value>
   </option>
   <option name="LINE_SEPARATOR" value="&#10;" />
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_BEFORE_GENERATOR_MULT" value="true" />
@@ -24,7 +24,13 @@
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
-  <TypeScriptCodeStyleSettings>
+  <Objective-C-extensions>
+    <extensions>
+      <pair source="cpp" header="h" fileNamingConvention="SNAKE_CASE" />
+      <pair source="c" header="h" fileNamingConvention="SNAKE_CASE" />
+    </extensions>
+  </Objective-C-extensions>
+  <TypeScriptCodeStyleSettings version="0">
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_BEFORE_GENERATOR_MULT" value="true" />
