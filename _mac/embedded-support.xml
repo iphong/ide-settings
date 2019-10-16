@@ -1,5 +1,5 @@
 <application>
   <component name="EmbeddedDevelopment">
-    <option name="openOcdLocation" value="/opt/local/bin/openocd" />
+    <option name="openOcdLocation" value="/usr/local/bin/openocd" />
   </component>
 </application>
