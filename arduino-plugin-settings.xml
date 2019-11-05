@@ -1,0 +1,8 @@
+<application>
+  <component name="Arduino Support Settings">
+    <option name="addLibraryDirectory" value="true" />
+    <option name="programmerId" value="usbasp" />
+    <option name="programmerName" value="USBasp" />
+    <option name="verbose" value="true" />
+  </component>
+</application>
