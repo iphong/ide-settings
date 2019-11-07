@@ -1,0 +1,17 @@
+<application>
+  <component name="Arduino Support Settings">
+    <option name="addLibraryDirectory" value="true" />
+    <option name="baudRate" value="115200" />
+    <boardCpuMap>
+      <entry key="pro" value="16MHzatmega328" />
+      <entry key="uno" value="" />
+    </boardCpuMap>
+    <option name="boardId" value="pro" />
+    <option name="boardName" value="Arduino Pro or Pro Mini" />
+    <option name="cpuId" value="16MHzatmega328" />
+    <option name="cpuName" value="ATmega328P (5V, 16 MHz)" />
+    <option name="programmerId" value="usbasp" />
+    <option name="programmerName" value="USBasp" />
+    <option name="verbose" value="true" />
+  </component>
+</application>
