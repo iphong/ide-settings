@@ -7,6 +7,8 @@
       <mapping ext="graphql" type="PLAIN_TEXT" />
       <mapping ext="hex" type="PLAIN_TEXT" />
       <mapping ext="luac" type="PLAIN_TEXT" />
+      <mapping ext="ts" type="PLAIN_TEXT" />
+      <removed_mapping ext="ts" type="TypeScript" />
       <removed_mapping ext="ino" approved="true" type="ObjectiveC" />
       <removed_mapping ext="graphql" approved="true" type="GraphQL" />
       <mapping ext="pde" type="ObjectiveC" />
