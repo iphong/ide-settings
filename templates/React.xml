@@ -119,7 +119,6 @@
     <context>
       <option name="HTML" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
-      <option name="JS_EXPRESSION" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
@@ -302,7 +301,6 @@
     <context>
       <option name="HTML" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
-      <option name="JS_EXPRESSION" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
@@ -315,8 +313,6 @@
   </template>
   <template name="rcc" value="import React, { Component } from 'react';&#10;&#10;class $TM_FILENAME_BASE$ extends Component {&#10; render() {&#10;  return (&#10;   &lt;div&gt;&#10;    $END$&#10;   &lt;/div&gt;&#10;  );&#10; }&#10;}&#10;&#10;export default $TM_FILENAME_BASE$;" description="Creates a A higher-order component" toReformat="true" toShortenFQNames="true">
     <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context>
-      <option name="JS_STATEMENT" value="true" />
-    </context>
+    <context />
   </template>
 </templateSet>
