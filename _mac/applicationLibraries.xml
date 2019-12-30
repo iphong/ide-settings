@@ -4,6 +4,10 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/node" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/react" type="javaScript">
       <CLASSES />
       <SOURCES />
