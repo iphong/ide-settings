@@ -23,6 +23,10 @@
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
+  <Objective-C>
+    <option name="SPACE_WITHIN_TEMPLATE_DOUBLE_GT" value="false" />
+    <option name="SPACE_WITHIN_EMPTY_BRACES" value="true" />
+  </Objective-C>
   <Objective-C-extensions>
     <extensions>
       <pair source="cpp" header="h" fileNamingConvention="SNAKE_CASE" />
