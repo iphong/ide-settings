@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="CMakeListsPrivate.txt" type="CMakeLists.txt" />
+      <mapping pattern="CMakeListsUser.txt" type="CMakeLists.txt" />
       <mapping ext="pde" type="ObjectiveC" />
       <removed_mapping ext="ino" approved="true" type="ObjectiveC" />
       <mapping pattern="demo-puppeteer.js" type="PLAIN_TEXT" />
