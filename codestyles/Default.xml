@@ -23,6 +23,10 @@
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
+  <Objective-C>
+    <option name="SPACE_WITHIN_TEMPLATE_DOUBLE_GT" value="false" />
+    <option name="SPACE_WITHIN_EMPTY_BRACES" value="true" />
+  </Objective-C>
   <Objective-C-extensions>
     <extensions>
       <pair source="cpp" header="h" fileNamingConvention="SNAKE_CASE" />
@@ -43,6 +47,12 @@
     <option name="SPACES_WITHIN_OBJECT_TYPE_BRACES" value="false" />
     <option name="BLANK_LINES_AROUND_FUNCTION" value="0" />
   </TypeScriptCodeStyleSettings>
+  <codeStyleSettings language="CMake">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
@@ -84,6 +94,12 @@
   <codeStyleSettings language="Markdown">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="ObjectiveC">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="SASS">
