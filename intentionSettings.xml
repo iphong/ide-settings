@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="JavaScript/ECMAScript 6/Propagate to destructuring declaration" />
+  </component>
+</application>
