@@ -10,6 +10,7 @@
       <mapping ext="hex" type="PLAIN_TEXT" />
       <mapping ext="wasm" type="PLAIN_TEXT" />
       <mapping ext="luac" type="PLAIN_TEXT" />
+      <mapping ext="esphome" type="YAML" />
       <removed_mapping ext="ino" approved="true" type="ObjectiveC" />
       <removed_mapping ext="graphql" approved="true" type="GraphQL" />
       <mapping ext="php" type="PHP" />
