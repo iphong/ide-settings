@@ -3,4 +3,7 @@
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
   </component>
+  <component name="YamlEditorOptions">
+    <option name="useSmartPaste" value="false" />
+  </component>
 </application>
