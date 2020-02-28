@@ -49,8 +49,6 @@
   </TypeScriptCodeStyleSettings>
   <yaml>
     <option name="INDENT_SEQUENCE_VALUE" value="false" />
-    <option name="SEQUENCE_ON_NEW_LINE" value="true" />
-    <option name="BLOCK_MAPPING_ON_NEW_LINE" value="true" />
     <option name="AUTOINSERT_SEQUENCE_MARKER" value="false" />
   </yaml>
   <codeStyleSettings language="CMake">
