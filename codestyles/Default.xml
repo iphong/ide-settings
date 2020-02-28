@@ -47,6 +47,12 @@
     <option name="SPACES_WITHIN_OBJECT_TYPE_BRACES" value="false" />
     <option name="BLANK_LINES_AROUND_FUNCTION" value="0" />
   </TypeScriptCodeStyleSettings>
+  <yaml>
+    <option name="INDENT_SEQUENCE_VALUE" value="false" />
+    <option name="SEQUENCE_ON_NEW_LINE" value="true" />
+    <option name="BLOCK_MAPPING_ON_NEW_LINE" value="true" />
+    <option name="AUTOINSERT_SEQUENCE_MARKER" value="false" />
+  </yaml>
   <codeStyleSettings language="CMake">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
@@ -129,6 +135,11 @@
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="yaml">
+    <indentOptions>
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
