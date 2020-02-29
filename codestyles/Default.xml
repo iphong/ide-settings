@@ -137,7 +137,6 @@
   </codeStyleSettings>
   <codeStyleSettings language="yaml">
     <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
