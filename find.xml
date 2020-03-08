@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yaml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,5 +16,6 @@
     <mask>*.mxml</mask>
     <mask>*.js</mask>
     <mask>*.txt</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
