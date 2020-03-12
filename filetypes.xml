@@ -7,8 +7,8 @@
       <mapping ext="hex" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
       <mapping ext="luac" type="PLAIN_TEXT" />
-      <mapping ext="yalm" type="YAML" />
       <mapping ext="esphome" type="YAML" />
+      <mapping ext="yalm" type="YAML" />
       <removed_mapping ext="ino" approved="true" type="ObjectiveC" />
       <removed_mapping ext="graphql" approved="true" type="GraphQL" />
       <mapping ext="pde" type="ObjectiveC" />
