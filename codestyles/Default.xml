@@ -48,7 +48,6 @@
     <option name="BLANK_LINES_AROUND_FUNCTION" value="0" />
   </TypeScriptCodeStyleSettings>
   <yaml>
-    <option name="INDENT_SEQUENCE_VALUE" value="false" />
     <option name="AUTOINSERT_SEQUENCE_MARKER" value="false" />
   </yaml>
   <codeStyleSettings language="CMake">
