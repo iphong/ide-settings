@@ -6,6 +6,7 @@
       <mapping pattern="" type="JSON" />
       <mapping ext="pde" type="ObjectiveC" />
       <removed_mapping ext="ino" approved="true" type="ObjectiveC" />
+      <mapping pattern="esp32dev_01.yaml" type="PLAIN_TEXT" />
       <mapping pattern="demo-puppeteer.js" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
       <mapping ext="hex" type="PLAIN_TEXT" />
