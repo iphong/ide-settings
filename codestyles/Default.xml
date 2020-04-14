@@ -47,6 +47,9 @@
     <option name="SPACES_WITHIN_OBJECT_TYPE_BRACES" value="false" />
     <option name="BLANK_LINES_AROUND_FUNCTION" value="0" />
   </TypeScriptCodeStyleSettings>
+  <yaml>
+    <option name="AUTOINSERT_SEQUENCE_MARKER" value="false" />
+  </yaml>
   <codeStyleSettings language="CMake">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
