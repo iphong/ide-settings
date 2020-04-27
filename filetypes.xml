@@ -1,8 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="CMakeListsUser.txt" type="CMakeLists.txt" />
+      <mapping pattern="CMakeListsPrivate.txt" type="CMakeLists.txt" />
       <mapping pattern="" type="JSON" />
-      <mapping ext="php" type="PHP" />
+      <mapping ext="pde" type="ObjectiveC" />
+      <removed_mapping ext="ino" approved="true" type="ObjectiveC" />
+      <mapping pattern="esp32dev_01.yaml" type="PLAIN_TEXT" />
       <mapping pattern="demo-puppeteer.js" type="PLAIN_TEXT" />
       <mapping ext="wasm" type="PLAIN_TEXT" />
       <mapping ext="hex" type="PLAIN_TEXT" />
@@ -12,10 +16,8 @@
       <mapping ext="yalm" type="YAML" />
       <removed_mapping ext="ino" approved="true" type="ObjectiveC" />
       <removed_mapping ext="graphql" approved="true" type="GraphQL" />
-      <mapping ext="pde" type="ObjectiveC" />
+      <mapping ext="php" type="PHP" />
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="CMakeListsPrivate.txt" type="CMakeLists.txt" />
-      <mapping pattern="CMakeListsUser.txt" type="CMakeLists.txt" />
     </extensionMap>
   </component>
 </application>
