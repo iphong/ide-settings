@@ -6,7 +6,6 @@
       <mapping pattern="" type="JSON" />
       <mapping ext="pde" type="ObjectiveC" />
       <removed_mapping ext="ino" approved="true" type="ObjectiveC" />
-      <mapping ext="php" type="PHP" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="esp32dev_01.yaml" type="PLAIN_TEXT" />
       <mapping pattern="demo-puppeteer.js" type="PLAIN_TEXT" />
