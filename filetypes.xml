@@ -6,13 +6,23 @@
       <mapping pattern="" type="JSON" />
       <mapping ext="pde" type="ObjectiveC" />
       <removed_mapping ext="ino" approved="true" type="ObjectiveC" />
+      <mapping pattern="lovelace_dashboards" type="PLAIN_TEXT" />
+      <mapping pattern="http" type="PLAIN_TEXT" />
       <mapping pattern="esp32dev_01.yaml" type="PLAIN_TEXT" />
       <mapping pattern="demo-puppeteer.js" type="PLAIN_TEXT" />
+      <mapping pattern="lovelace_resources" type="PLAIN_TEXT" />
+      <mapping pattern="hassio" type="PLAIN_TEXT" />
       <mapping pattern="frame_9" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="mobile_app" type="PLAIN_TEXT" />
+      <mapping pattern="person" type="PLAIN_TEXT" />
+      <mapping pattern="auth" type="PLAIN_TEXT" />
       <mapping ext="wasm" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="2d6f2226f05b44738916929ff6ba020d" type="PLAIN_TEXT" />
       <mapping ext="hex" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
+      <mapping ext="lovelace_cast" type="PLAIN_TEXT" />
       <mapping ext="luac" type="PLAIN_TEXT" />
       <mapping ext="esphome" type="YAML" />
       <mapping ext="yalm" type="YAML" />
