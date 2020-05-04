@@ -20,9 +20,9 @@
       <mapping ext="wasm" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="2d6f2226f05b44738916929ff6ba020d" type="PLAIN_TEXT" />
+      <mapping ext="lovelace_cast" type="PLAIN_TEXT" />
       <mapping ext="hex" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
-      <mapping ext="lovelace_cast" type="PLAIN_TEXT" />
       <mapping ext="luac" type="PLAIN_TEXT" />
       <mapping ext="esphome" type="YAML" />
       <mapping ext="yalm" type="YAML" />
