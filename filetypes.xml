@@ -1,23 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="" type="JSON" />
-      <mapping ext="php" type="PHP" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="esp32dev_01.yaml" type="PLAIN_TEXT" />
-      <mapping pattern="demo-puppeteer.js" type="PLAIN_TEXT" />
-      <mapping ext="wasm" type="PLAIN_TEXT" />
-      <mapping ext="hex" type="PLAIN_TEXT" />
-      <mapping ext="graphql" type="PLAIN_TEXT" />
-      <mapping ext="luac" type="PLAIN_TEXT" />
-      <mapping ext="esphome" type="YAML" />
-      <mapping ext="yalm" type="YAML" />
-      <removed_mapping ext="ino" approved="true" type="ObjectiveC" />
-      <removed_mapping ext="graphql" approved="true" type="GraphQL" />
-      <mapping ext="pde" type="ObjectiveC" />
-      <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="CMakeListsPrivate.txt" type="CMakeLists.txt" />
-      <mapping pattern="CMakeListsUser.txt" type="CMakeLists.txt" />
+      <mapping pattern="http" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
