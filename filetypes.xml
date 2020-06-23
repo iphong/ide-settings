@@ -2,14 +2,15 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="hassio" type="JSON" />
+      <mapping pattern="lovelace" type="JSON" />
       <mapping pattern="google_assistant" type="JSON" />
       <mapping pattern="camera" type="JSON" />
-      <mapping pattern="lovelace" type="JSON" />
       <mapping ext="entity_registry" type="JSON" />
       <mapping ext="lovelace_cast" type="JSON" />
       <mapping ext="restore_state" type="JSON" />
-      <mapping pattern="http" type="PLAIN_TEXT" />
       <mapping pattern="cloud" type="PLAIN_TEXT" />
+      <mapping pattern="http" type="PLAIN_TEXT" />
+      <mapping pattern="lights" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
