@@ -21,6 +21,7 @@
       <mapping ext="fe367f6ce52c481086ccd16e9a55739f" type="JSON" />
       <mapping ext="61000fc39d064397b6485d23315dc9ce" type="JSON" />
       <mapping pattern="cloud" type="PLAIN_TEXT" />
+      <mapping pattern="my-network" type="PLAIN_TEXT" />
       <mapping pattern="http" type="PLAIN_TEXT" />
       <mapping pattern="lights" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
