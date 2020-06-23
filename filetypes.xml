@@ -5,6 +5,7 @@
       <mapping pattern="lovelace" type="JSON" />
       <mapping pattern="google_assistant" type="JSON" />
       <mapping pattern="camera" type="JSON" />
+      <mapping ext="device_registry" type="JSON" />
       <mapping ext="entity_registry" type="JSON" />
       <mapping ext="lovelace_cast" type="JSON" />
       <mapping ext="restore_state" type="JSON" />
