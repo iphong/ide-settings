@@ -24,6 +24,7 @@
       <mapping pattern="my-network" type="PLAIN_TEXT" />
       <mapping pattern="http" type="PLAIN_TEXT" />
       <mapping pattern="lights" type="PLAIN_TEXT" />
+      <mapping pattern="wireless" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
