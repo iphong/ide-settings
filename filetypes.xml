@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="hassio" type="JSON" />
       <mapping pattern="lovelace" type="JSON" />
       <mapping pattern="google_assistant" type="JSON" />
+      <mapping pattern="hassio" type="JSON" />
       <mapping pattern="mobile_app" type="JSON" />
       <mapping pattern="person" type="JSON" />
       <mapping pattern="auth" type="JSON" />
@@ -25,11 +25,11 @@
       <mapping pattern="my-network" type="PLAIN_TEXT" />
       <mapping pattern="http" type="PLAIN_TEXT" />
       <mapping pattern="dropbear_ecdsa_host_key" type="PLAIN_TEXT" />
-      <mapping pattern="os-release" type="PLAIN_TEXT" />
       <mapping pattern="dropbear_rsa_host_key" type="PLAIN_TEXT" />
+      <mapping pattern="os-release" type="PLAIN_TEXT" />
+      <mapping pattern="lights" type="PLAIN_TEXT" />
       <mapping pattern="wireless" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
-      <mapping pattern="lights" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
     </extensionMap>
