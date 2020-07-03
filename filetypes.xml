@@ -26,6 +26,7 @@
       <mapping pattern="my-network" type="PLAIN_TEXT" />
       <mapping pattern="http" type="PLAIN_TEXT" />
       <mapping pattern="dropbear_ecdsa_host_key" type="PLAIN_TEXT" />
+      <mapping pattern="index" type="PLAIN_TEXT" />
       <mapping pattern="dropbear_rsa_host_key" type="PLAIN_TEXT" />
       <mapping pattern="os-release" type="PLAIN_TEXT" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
@@ -34,6 +35,7 @@
       <mapping pattern="lights" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="tsv" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
