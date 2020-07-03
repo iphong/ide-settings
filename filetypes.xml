@@ -28,6 +28,7 @@
       <mapping pattern="dropbear_ecdsa_host_key" type="PLAIN_TEXT" />
       <mapping pattern="dropbear_rsa_host_key" type="PLAIN_TEXT" />
       <mapping pattern="os-release" type="PLAIN_TEXT" />
+      <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern="wireless" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="lights" type="PLAIN_TEXT" />
