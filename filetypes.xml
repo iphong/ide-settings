@@ -22,16 +22,16 @@
       <mapping ext="restore_state" type="JSON" />
       <mapping ext="config_entries" type="JSON" />
       <mapping pattern="recording" type="PLAIN_TEXT" />
-      <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern="my-network" type="PLAIN_TEXT" />
       <mapping pattern="os-release" type="PLAIN_TEXT" />
       <mapping pattern="dropbear_rsa_host_key" type="PLAIN_TEXT" />
-      <mapping pattern="wireless" type="PLAIN_TEXT" />
+      <mapping pattern="lights" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="http" type="PLAIN_TEXT" />
       <mapping pattern="cloud" type="PLAIN_TEXT" />
-      <mapping pattern="lights" type="PLAIN_TEXT" />
+      <mapping pattern="foo" type="PLAIN_TEXT" />
+      <mapping pattern="wireless" type="PLAIN_TEXT" />
       <mapping pattern="dropbear_ecdsa_host_key" type="PLAIN_TEXT" />
       <mapping pattern="recordings" type="PLAIN_TEXT" />
       <mapping ext="pyc" type="PLAIN_TEXT" />
